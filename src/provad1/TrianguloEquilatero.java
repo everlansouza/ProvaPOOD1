@@ -1,4 +1,3 @@
-//Everlan de Souza Oliveira     RA:31821004
 package provad1;
 
 /**
